@@ -21,8 +21,9 @@ or
 
     python main.py
 
-You should see output with "Hello" printed from the C++ method.
+You should see various output from C/C++.
 
 ## Misc.
 ### Source and discussion
 http://stackoverflow.com/questions/145270/calling-c-c-from-python
+http://docs.python.org/2/library/ctypes.html#return-types
